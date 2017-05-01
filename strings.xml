@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Yoda Wisdom</string>
+    <string name="QUOTE"></string>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <string-array name="select_issue_array">
+        <item id="0"> Troubling you, what is?</item>
+        <item id="1">Love</item>
+        <item id="2">Money</item>
+        <item id="3">Family</item>
+        <item id="4">Self-esteem</item>
+        <item id="5">The Force</item>
+        <item id="6">Father issues</item>
+    </string-array>
+
+</resources>
