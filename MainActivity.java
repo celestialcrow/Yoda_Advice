@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
         Random random = new Random();
         String randString = PROVERBS[random.nextInt(PROVERBS.length)];
         composeEmail(emailStr, String randString);
-        // displayMessage(priceMessage);
+        
     }
     public void composeEmail(String[] addresses, String subject) {
         Intent intent = new Intent(Intent.ACTION_SENDTO);
