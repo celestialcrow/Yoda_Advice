@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/celestecrowder/AndroidStudioProjects/YodaAdvice/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/celestecrowder/AndroidStudioProjects/YodaAdvice/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_20c8f6c7ab1a265f5fbf21cca7c8935c0028a37f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/celestecrowder/AndroidStudioProjects/YodaAdvice/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be73965720b76e0c7e0528933ba367a4c2327d6f">
+        <dex dex="/Users/celestecrowder/AndroidStudioProjects/YodaAdvice/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_34404cc0b3ec3311c1d3f6f561dea1c81f22a157/classes.dex" />
+    </item>
+
+</items>
